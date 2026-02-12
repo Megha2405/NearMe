@@ -35,11 +35,11 @@ Execute the programs and publish them.
 
 <center><h1>Megha(212224230157)</h1></center>
 
-<!-- Image -->
+
 <img src="Screenshot 2026-02-12 221227.png" usemap="#image-map" alt="Map Image">
 
 
-<!-- Clickable Areas -->
+
 <map name="image-map">
 
     <area shape="rect"
@@ -76,8 +76,10 @@ Execute the programs and publish them.
 
 </body>
 </html>
+```
 
-File1:
+## File1:
+```
 
 <!DOCTYPE html>
 <html>
